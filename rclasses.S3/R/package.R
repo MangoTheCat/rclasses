@@ -5,4 +5,6 @@
 #'
 #' @docType package
 #' @name rclasses.S3
+#'
+#' @importFrom assertthat assert_that
 NULL

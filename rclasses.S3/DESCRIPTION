@@ -3,10 +3,18 @@ Title: Example Package for S3 Classes
 Version: 1.0.0
 Author: Gabor Csardi
 Maintainer: Gabor Csardi <gcsardi@mango-solutions.com>
-Description: R supports three systems for writing object orineted code, and some contributed pakages add even more. This package is part of a systematic comparison of all class systems, by implementing a simple generic machine learning framework.
+Description: R supports three systems for writing object orineted code, and
+    some contributed pakages add even more. This package is part of a systematic
+    comparison of all class systems, by implementing a simple generic machine
+    learning framework.
 License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/mangothecat/rclasses
 BugReports: https://github.com/mangothecat/rclasses/issues
-Suggests: 
+Imports:
+    assertthat,
+    rio
+Suggests:
+    roxygen2,
     testthat
+RoxygenNote: 5.0.1
