@@ -5,8 +5,8 @@
 
 > Example Package for S3 Classes
 
-[![Linux Build Status](https://travis-ci.org/MangoTheCat/rclasses.S3.svg?branch=master)](https://travis-ci.org/MangoTheCat/rclasses.S3)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/gaborcsardi/rclasses.S3?svg=true)](https://ci.appveyor.com/project/gaborcsardi/rclasses.S3)
+[![Linux Build Status](https://travis-ci.org/MangoTheCat/rclasses.svg?branch=master)](https://travis-ci.org/MangoTheCat/rclasses)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/github/MangoTheCat/rclasses?svg=true)](https://ci.appveyor.com/project/gaborcsardi/rclasses)
 
 
 R supports three systems for writing object orineted code, and some
